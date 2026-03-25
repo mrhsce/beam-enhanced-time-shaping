@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Virtual Environment
+venv/
+.env
+
+# Editor and IDE files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.zip
+*.json
+*.mp4
+*.png
+
+# Dependency directories
+lib/
+lib64/
+bin/
+
+# Misc
+graphs/
+~graphs/
+output/
+~output/
