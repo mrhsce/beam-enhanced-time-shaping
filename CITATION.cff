@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "If you use BETS in your research, please cite this software."
 title: "BETS: Robust Time-Sensitive Stream Admission and Serving in Industrial MIMO Networks"
 type: software
-version: "1.0.0"
+version: "1.0.1"
 date-released: "2026-07-28"
 license: "Apache-2.0"
 
