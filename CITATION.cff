@@ -4,7 +4,7 @@ title: "BETS: Robust Time-Sensitive Stream Admission and Serving in Industrial M
 type: software
 version: "1.0.0"
 date-released: "2026-07-28"
-license: "MIT"
+license: "Apache-2.0"
 
 authors:
   - family-names: "Heydarian"
