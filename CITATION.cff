@@ -2,44 +2,25 @@ cff-version: 1.2.0
 message: "If you use BETS in your research, please cite this software."
 title: "BETS: Robust Time-Sensitive Stream Admission and Serving in Industrial MIMO Networks"
 type: software
-version: 1.0.0
-date-released: 2026-07-28
+version: "1.0.0"
+date-released: "2026-07-28"
+license: "MIT"
 
 authors:
   - family-names: "Heydarian"
     given-names: "Mohammadreza"
     orcid: "https://orcid.org/0000-0001-7765-0456"
-    affiliation: "Ghent University-imec"
 
   - family-names: "Colle"
     given-names: "Didier"
     orcid: "https://orcid.org/0000-0002-1428-0301"
-    affiliation: "Ghent University-imec"
 
   - family-names: "Pickavet"
     given-names: "Mario"
     orcid: "https://orcid.org/0000-0001-5817-7886"
-    affiliation: "Ghent University-imec"
 
   - family-names: "Tavernier"
     given-names: "Wouter"
     orcid: "https://orcid.org/0000-0003-4408-6523"
-    affiliation: "Ghent University-imec"
 
-abstract: >-
-  BETS (Beam-Enhanced Time Shaping) is a research implementation for
-  reliability-aware admission and serving of time-sensitive streams in
-  industrial MU-MIMO networks. It jointly addresses frame scheduling,
-  beamweight allocation, and uplink/downlink bandwidth partitioning under
-  time-varying wireless channel conditions.
-
-keywords:
-  - "Time-Sensitive Networking"
-  - "industrial wireless networks"
-  - "MU-MIMO"
-  - "beamforming"
-  - "stream admission"
-  - "resource allocation"
-  - "schedulability"
-
-repository-code: "https://github.com/USERNAME/REPOSITORY"
+repository-code: "https://github.com/mrhsce/beam-enhanced-time-shaping"
